@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+
+    <string name="recently_trending_label">Recently Trending</string>
+    <string name="trending_item_info_text">%s  ●  %s</string>
+    <string name="movie_label">Movie</string>
+    <string name="tv_shows_label">Tv Shows</string>
+
+    <string name="overview_label">Overview</string>
+    <string name="casts_label">Casts</string>
+    <string name="detail_info_date_language_and_runtime_or_episode_text">%s (%s)  ●  %s</string>
+    <string name="detail_info_language_and_runtime_or_episode_text">%s  ●  %s</string>
+
+    <plurals name="episode_text">
+        <item quantity="zero">%s episode</item>
+        <item quantity="one">%s episode</item>
+        <item quantity="other">%s episodes</item>
+    </plurals>
+
+    <string name="menu_favorites_label">Favorites</string>
+    <string name="your_favorites_label">Your Favorites</string>
+
+    <string name="menu_search">Search</string>
+
+    <string name="no_connection_message">Failed to fetch data. Please check your internet connection.</string>
+    <string name="unknown_error_message">An error occurred while receiving data. Please try again later.</string>
+    <string name="empty_state_label">No data found.</string>
+    <string name="favorite_movie_is_empty_label">You haven\'t add a favorite movie.</string>
+    <string name="favorite_tv_is_empty_label">You haven\'t add a favorite tv show.</string>
+    <string name="search_view_hint">Type to search</string>
+</resources>

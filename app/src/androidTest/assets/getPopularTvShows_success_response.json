@@ -1,0 +1,48 @@
+{
+  "page": 1,
+  "results": [{
+    "backdrop_path": "/b0WmHGc8LHTdGCVzxRb3IBMur57.jpg",
+    "first_air_date": "2021-03-19",
+    "genre_ids": [10765, 10759, 18, 10768],
+    "id": 88396,
+    "name": "The Falcon and the Winter Soldier",
+    "origin_country": ["US"],
+    "original_language": "en",
+    "original_name": "The Falcon and the Winter Soldier",
+    "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+    "popularity": 5129.317,
+    "poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+    "vote_average": 7.9,
+    "vote_count": 4830
+  }, {
+    "backdrop_path": "/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg",
+    "first_air_date": "2017-09-25",
+    "genre_ids": [18],
+    "id": 71712,
+    "name": "The Good Doctor",
+    "origin_country": ["US"],
+    "original_language": "en",
+    "original_name": "The Good Doctor",
+    "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+    "popularity": 1722.506,
+    "poster_path": "/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+    "vote_average": 8.6,
+    "vote_count": 8084
+  }, {
+    "backdrop_path": "/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+    "first_air_date": "2021-03-26",
+    "genre_ids": [16, 10759, 18],
+    "id": 95557,
+    "name": "Invincible",
+    "origin_country": ["US"],
+    "original_language": "en",
+    "original_name": "Invincible",
+    "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+    "popularity": 1168.298,
+    "poster_path": "/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+    "vote_average": 8.9,
+    "vote_count": 817
+  }],
+  "total_pages": 500,
+  "total_results": 10000
+}
